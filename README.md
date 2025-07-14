@@ -384,8 +384,6 @@ AT+CIOBAUD=9600                 # Configurar baudios
 
 
 ## 👨‍💻 Autor
-
-**Tu Nombre**
 - GitHub: [@LauraRangel](https://github.com/LauraRangel)
 
 ## 🙏 Agradecimientos
