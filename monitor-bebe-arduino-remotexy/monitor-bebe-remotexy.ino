@@ -518,8 +518,7 @@ void indicadorEstado() {
     ultimoParpadeo = millis();
   }
   
-
-  Respuesta automática a llanto alto
+// Respuesta automática a llanto alto
   if (nivelSonido > 336 && modoActual != 3 && modoActual != 0) {
     // Activar respuesta automática
     if (modoActual == 1) { // En modo dormir
